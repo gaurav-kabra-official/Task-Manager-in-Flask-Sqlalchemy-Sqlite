@@ -1,4 +1,4 @@
-# Task-Manager-Flask-Sqlalchemy-Sqlite
+# Web-based-Task-Manager-Flask-Sqlalchemy-Sqlite
  Task Manager in Flask, Sqlalchemy & Sqlite (insert & delete functionality).
 
 
@@ -15,3 +15,4 @@ exit()
 ```
 python3 app.py
 ```
+* Open localhost:5000 or 127.0.0.1/5000
