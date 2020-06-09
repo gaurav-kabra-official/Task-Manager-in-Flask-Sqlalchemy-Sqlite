@@ -1,5 +1,5 @@
-# Web-based-Task-Manager-Flask-Sqlalchemy-Sqlite
- Task Manager in Flask, Sqlalchemy & Sqlite (insert & delete functionality).
+# Web-based-Task-Manager-Flask-Sqlalchemy-Sqlite-Jinja
+ Task Manager in Flask, Sqlalchemy, Jinja & Sqlite (insert & delete functionality).
 
 
 # Run App
