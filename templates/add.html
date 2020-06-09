@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block main %}
+<p>  In About.html </p>
+
+<form action="/add" method="post">
+    <!-- Malicious input protection -->
+    {{ form.csrf_token() }}
+    {{ form.task }}
+    {{ form.submit }}
+</form>
+{% endblock main %}
