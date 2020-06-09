@@ -16,3 +16,6 @@ exit()
 python3 app.py
 ```
 * Open localhost:5000 or 127.0.0.1/5000
+
+### Note
+If error comes (like during commit) in this way, replace 'from app import db' to 'from model import db'.
